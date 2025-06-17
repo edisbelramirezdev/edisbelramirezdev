@@ -24,4 +24,4 @@ Actualmente explorando **pentesting, optimización de bases de datos** y estrate
 
 ---
 
-Puedes personalizarlo agregando proyectos o redes sociales. ¿Quieres algún ajuste o un toque más personal? 💡
+

@@ -1,27 +1,21 @@
-```markdown
-## 👋 ¡Hola! Soy Edisbel Ramírez
+## 👋 ¡Hola! Soy Edisbel Ramírez Lovatos
 
-🔹 **Especialista Principal en Ciberseguridad** en ETECSA, con una sólida trayectoria en **administración de redes, seguridad informática y desarrollo de sistemas**.  
-🔹 Apasionado por el **software libre**, la seguridad digital y la optimización de sistemas Linux.  
-🔹 Experiencia en herramientas de análisis de seguridad como **Nmap, OpenVAS y SIEM**.  
-🔹 Metodológico y estratégico en la gestión de equipos y la resolución de problemas técnicos.  
+🔹 **Especialista Principal en Ciberseguridad** en ETECSA, con amplia experiencia en **administración de redes, seguridad informática y desarrollo de sistemas**.  
+🔹 Apasionado por el **software libre**, la protección digital y el rendimiento en entornos Linux.  
+🔹 Dominio de herramientas como **Nmap, OpenVAS, SIEM**, entre otras soluciones de análisis de seguridad.  
+🔹 Enfoque **metodológico y estratégico** en la gestión de equipos y la resolución de desafíos técnicos complejos.
 
-### 🚀 Lo que hago
-- **Ciberseguridad:** Evaluación de vulnerabilidades, protección de sistemas y gestión de incidentes.  
-- **Administración de sistemas:** Optimización de rendimiento en servidores Linux, solución de errores EFI/GRUB.  
-- **Desarrollo Full-Stack:** Conceptualización de sistemas web para mejorar operaciones de seguridad.  
-- **Gestión y liderazgo:** Formación de equipos, resolución de conflictos y planificación estratégica.  
+### 🚀 Qué hago
+- **Ciberseguridad:** Identificación de vulnerabilidades, gestión proactiva de incidentes y blindaje de infraestructuras.  
+- **Administración de sistemas:** Mantenimiento y optimización de servidores Linux, resolución de fallos críticos como errores EFI/GRUB.  
+- **Desarrollo Full-Stack:** Diseño e implementación de soluciones web orientadas a mejorar la eficiencia y seguridad operativa.  
+- **Liderazgo técnico:** Coordinación de equipos multidisciplinarios, planificación estratégica y mentoría técnica.
 
-### 🌱 En constante aprendizaje
-Actualmente explorando **pentesting, optimización de bases de datos** y estrategias avanzadas de seguridad.  
+### 🌱 Siempre aprendiendo
+Actualmente profundizando en **pentesting**, **optimización de bases de datos** y enfoques avanzados de **seguridad ofensiva y defensiva**.
 
-### 📫 Conéctate conmigo
-- LinkedIn: [Tu perfil aquí]  
-- GitHub: [Tu perfil aquí]  
+### 📫 Hablemos
+- LinkedIn: [https://www.linkedin.com/in/edisbel-ramirez-lovatos-2b680217b/]  
+- GitHub: [https://github.com/edisbelramirezdev/]  
 
-😄 ¡Colaboremos en algo increíble!
-```
-
----
-
-
+😄 ¡Estoy abierto a nuevas colaboraciones y desafíos!

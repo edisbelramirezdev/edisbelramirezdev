@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/209521848?v=4&size=150" width="150" alt="Foto de perfil de Edisbel Ramírez Lovatos"/>
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/209521848?v=4&size=150" width="120" style="border-radius: 50%;" alt="Foto de perfil de Edisbel Ramírez Lovatos"/>
 </p>
-
 
 # 👋 ¡Hola! Soy **Edisbel Ramírez Lovatos** 🇨🇺
 

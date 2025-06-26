@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/122310008?v=4" width="150" alt="Foto de perfil de Edisbel Ramírez Lovatos"/>
+</p>
+
+
 # 👋 ¡Hola! Soy **Edisbel Ramírez Lovatos** 🇨🇺
 
 🎯 **Especialista Principal en Ciberseguridad en ETECSA Cuba**  

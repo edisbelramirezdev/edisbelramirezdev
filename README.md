@@ -49,9 +49,16 @@
 - Automatización de auditorías y análisis con Python
 
 ---
-
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/edisbel-ramirez-lovatos-2b680217b/)  
-- 🧑‍💻 [GitHub](https://github.com/edisbelramirezdev/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/edisbel-ramirez-lovatos-2b680217b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/edisbelramirezdev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+</p>
+
 

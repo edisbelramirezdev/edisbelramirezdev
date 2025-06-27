@@ -1,4 +1,7 @@
-[![InfotecStudio Logo](https://raw.githubusercontent.com/edisbelramirezdev/edisbelramirezdev/main/logo.png)](https://infotecstudio.nat.cu)
+<a href="https://infotecstudio.nat.cu">
+  <img src="https://raw.githubusercontent.com/edisbelramirezdev/edisbelramirezdev/main/logo.png" alt="InfotecStudio Logo" width="200"/>
+</a>
+
 
 
 

@@ -1,6 +1,8 @@
-<a href="https://infotecstudio.nat.cu">
-  <img src="https://raw.githubusercontent.com/edisbelramirezdev/edisbelramirezdev/main/logo.png" alt="InfotecStudio Logo" width="200"/>
-</a>
+<p align="center">
+  <a href="https://infotecstudio.nat.cu">
+    <img src="https://raw.githubusercontent.com/edisbelramirezdev/edisbelramirezdev/main/logo.png" alt="InfotecStudio Logo" width="100"/>
+  </a>
+</p>
 
 
 

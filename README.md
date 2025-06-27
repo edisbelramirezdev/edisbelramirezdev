@@ -1,4 +1,5 @@
-[![InfotecStudio Logo](https://infotecstudio.nat.cu/assets/images/logo/logo.png)](https://infotecstudio.nat.cu)
+[![InfotecStudio Logo](https://raw.githubusercontent.com/edisbelramirezdev/edisbelramirezdev/main/logo.png)](https://infotecstudio.nat.cu)
+
 
 
 # 👋 ¡Hola! Soy **Edisbel Ramírez Lovatos** 🇨🇺
